@@ -2,7 +2,7 @@
 
 ![CodeQA Preview](codeqa-preview.png)
 
-🔗 **Live Demo:** [Add Your Live Project Link Here](https://codebaseqap.netlify.app/)
+🔗 **Live Demo:** [https://codebaseqap.netlify.app/](https://codebaseqap.netlify.app/)
 
 CodeQA is a **RAG-powered AI web application** that allows users to upload an entire codebase and ask natural language questions about it. The platform returns intelligent answers backed by **exact code snippets, file paths, and line numbers**, making code understanding faster and more reliable.
 
