@@ -1,6 +1,6 @@
 # 🚀 CodeQA — Codebase Q&A with Proof
 
-![CodeQA Preview](codeqa-preview.png)
+![CodeQA Preview](Preview.png)
 
 🔗 **Live Demo:** [https://codebaseqap.netlify.app/](https://codebaseqap.netlify.app/)
 
@@ -109,7 +109,7 @@ CodeQA/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeQA.git
+git clone https://github.com/Aman25427/CodeQA.git
 ```
 
 Move into project directory:
@@ -158,7 +158,7 @@ npm run dev
 
 ## 📸 Project Preview
 
-<img width="100%" alt="CodeQA Screenshot" src="codeqa-preview.png" />
+<img width="100%" alt="CodeQA Screenshot" src="Preview.png" />
 
 ---
 
