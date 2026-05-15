@@ -1,0 +1,10 @@
+project_id = "mhgairwdmigzwxzftqep"
+
+[functions.ingest-code]
+verify_jwt = false
+
+[functions.ask-question]
+verify_jwt = false
+
+[functions.health-check]
+verify_jwt = false
